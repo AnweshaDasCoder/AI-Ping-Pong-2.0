@@ -6,5 +6,7 @@ function preload() {
 
 function setup() {
  instializeInSetup(ping);
+ canvas.parent('canvas');
 }
+
 

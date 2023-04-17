@@ -21,9 +21,13 @@ body
 {
 font-size: 22px
 }
-#canvas {
+#canvas
+ {
     border: 2px solid white;
     border-radius: 10px;
     margin-top: 130px;
     box-shadow: 5px 5px 5px white;
+}
+#bye {
+    margin-left: 20px;
 }
